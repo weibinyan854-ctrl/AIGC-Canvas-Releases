@@ -1,11 +1,11 @@
 {
-  "version": "0.1.1",
-  "notes": "Audio nodes, video audio-reference connections, and automatic update support.",
-  "pub_date": "2026-08-07T07:24:13Z",
-  "platforms": {
-    "windows-x86_64": {
-      "url": "https://github.com/weibinyan854-ctrl/AIGC-Canvas-Releases/releases/download/v0.1.1/AIGC.Canvas_0.1.1_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWWdZV3RyTXdGOXNObEUxWWtrQmhlN251NGc5RnNvOVQ2bm9mNVI3NXBDdForRlhVOFRYUk9xS1o2MmdyZzRmb2VVUHh6REpjZVNwc1d4WWhXVFpzUnFkUWtnejJSUGc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2MDg4NDcyCWZpbGU6QUlHQyBDYW52YXNfMC4xLjFfeDY0LXNldHVwLmV4ZQpwb1JIaDUwUUt5SENiTTV2ZjdVZVd1RFpnellKMGJta0tyNG0yblowLzdwNEU4Z1hobTBZT2NWeVZwOG92RXN3Ynp2cGxKdm1FRVRKWkxVeklua3dBQT09Cg=="
-    }
-  }
+    "version":  "0.1.2",
+    "notes":  "RUSDO TV 0.1.2\n\n- 应用名称与 Windows 桌面图标更新为 RUSDO TV。\n- 优化右键菜单、双击创建节点菜单的深色玻璃视觉与入场过渡。\n- 视频节点模式切换新增胶囊滑动和内容过渡动画。\n- 修复更新签名链路：首次请手动安装本版本，后续版本可自动更新。",
+    "pub_date":  "2026-08-08T01:36:26Z",
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "url":  "https://github.com/weibinyan854-ctrl/AIGC-Canvas-Releases/releases/download/v0.1.2/RUSDO%20TV_0.1.2_x64-setup.exe",
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHJzaWduIHNlY3JldCBrZXkKUlVUTEw4WGFvT1IzOUVuU0llc25JMm9RY1djak9ZZ1dpTGFPdlpSaWFXR2VBb0ZYRERCQ2g5cWdHTnhpYjF5VGJLM05xdy9IeXF4dDBWWWFCVk1EczN6M1VhbWtJS0hRMXdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2MTUyOTA5CmNiMXV0eEFacWpjUm9aZjNCc1BBYUJkalZQZ3JFOVk3OE1BcEorMTdURDRTSnVobkpSa2s5cnVPRDBZUVppRlNROEZObXpNYkM3UDEzb2JqWkh5TUFBPT0K"
+                                         }
+                  }
 }
