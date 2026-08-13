@@ -1,11 +1,11 @@
 {
-    "version":  "0.1.6",
-    "notes":  "修复 Seedance 2.0 多音频参考素材上传链路与素材类型误判；恢复液态玻璃面板的背景模糊和柔光边缘。",
-    "pub_date":  "2026-08-08T11:21:34Z",
-    "platforms":  {
-                      "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTEw4WGFvT1IzOUJ6RjQ1N3VNL0ZjRnlHNjhZbG02VWVJRmZJb2dYNVRhZ0g1S2x0WU95SHFvNGlzMGM2cFpuZmFqWndVYWZUY1REYVBUcHY5MGxteVdjcTBpVkJvM1FNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2MTg3OTY2CWZpbGU6UlVTRE8gVFZfMC4xLjZfeDY0LXNldHVwLmV4ZQpkdUpHSW54bXB2TXRCZTcvTU1ZV1kyRHdmdW44Wktxb0wvQmFCZXZseTExUFZiWkFST2NWYlNSNkpjTStsYkd2TDRIRnFHQ0JZRFc2TUluYXl2K1lBdz09Cg==",
-                                             "url":  "https://github.com/weibinyan854-ctrl/AIGC-Canvas-Releases/releases/download/v0.1.6/RUSDO.TV_0.1.6_x64-setup.exe"
-                                         }
-                  }
+  "version": "0.1.7",
+  "notes": "优化图片与视频生成节点底部参数栏和生成栏；参数菜单支持互斥展开、键盘操作与禁用原因提示。",
+  "pub_date": "2026-08-13T11:13:08Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTEw4WGFvT1IzOUU2UWZzYitwOUxEU05ram9BTGo3VmhyOEZINFdBcWlxMDZqWXRUS3Q5SENkM0pPMlNFMm9DOXdTc0owWXlqZ25QbUhwUUFkcE5qQ0U2VG5aSm54V2c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NjE5NTUxCWZpbGU6UlVTRE8gVFZfMC4xLjdfeDY0LXNldHVwLmV4ZQpCc2NpNk5sTUpDelFyMk13SDg5NUc4QUtWZzd3Y0NjbGY4SjdWL3B5dDNiMzVSNXBBcEdVa0lFam15U3NRaE52NkdRTDhhQkZhRm1zL0dXam54Q1lEZz09Cg==",
+      "url": "https://github.com/weibinyan854-ctrl/AIGC-Canvas-Releases/releases/download/v0.1.7/RUSDO.TV_0.1.7_x64-setup.exe"
+    }
+  }
 }
