@@ -1,11 +1,11 @@
 {
-  "version": "0.1.7",
-  "notes": "优化图片与视频生成节点底部参数栏和生成栏；参数菜单支持互斥展开、键盘操作与禁用原因提示。",
-  "pub_date": "2026-08-13T11:13:08Z",
+  "version": "0.1.8",
+  "notes": "新增节点边缘吸附：拖动时贴合其他节点的左、右、上、下边缘，并显示精确边界辅助线；支持多选整体吸附。",
+  "pub_date": "2026-08-18T11:21:11Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTEw4WGFvT1IzOUU2UWZzYitwOUxEU05ram9BTGo3VmhyOEZINFdBcWlxMDZqWXRUS3Q5SENkM0pPMlNFMm9DOXdTc0owWXlqZ25QbUhwUUFkcE5qQ0U2VG5aSm54V2c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NjE5NTUxCWZpbGU6UlVTRE8gVFZfMC4xLjdfeDY0LXNldHVwLmV4ZQpCc2NpNk5sTUpDelFyMk13SDg5NUc4QUtWZzd3Y0NjbGY4SjdWL3B5dDNiMzVSNXBBcEdVa0lFam15U3NRaE52NkdRTDhhQkZhRm1zL0dXam54Q1lEZz09Cg==",
-      "url": "https://github.com/weibinyan854-ctrl/AIGC-Canvas-Releases/releases/download/v0.1.7/RUSDO.TV_0.1.7_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTEw4WGFvT1IzOU9GTkw5Q2xuZ0NISUoxUkJrcWQ2d0ZjQ3Fmd056TE9DMTRrSVRuU0loY1k0YmpXM2xGZGorWG5Gbk9md0Q0SjIycmt2VnkxeDJWbGxsdFVGYWVmanc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MDUyMDQwCWZpbGU6UlVTRE8gVFZfMC4xLjhfeDY0LXNldHVwLmV4ZQp3aDR2Uk9XUWhhY251MHd6blhJa3VCMHQ3MGhUcVlqVE1kSE1BdFFlWlZCTGxWcElFOXhyemFWZ0YrMUV4MVdtNzlZOUt0anRLUFd1L1NvNUxiT2FDdz09Cg==",
+      "url": "https://github.com/weibinyan854-ctrl/AIGC-Canvas-Releases/releases/download/v0.1.8/RUSDO.TV_0.1.8_x64-setup.exe"
     }
   }
 }
