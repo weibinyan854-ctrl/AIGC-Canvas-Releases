@@ -1,11 +1,11 @@
 {
-  "version": "0.1.10",
-  "notes": "修复安装版中图片、视频生成节点控制舱与预览图中心脱节、向左偏移的问题。控制舱现重新跟随节点 DOM Overlay，在缩放、平移和拖动时与预览共用同一坐标系。",
-  "pub_date": "2026-08-19T01:52:00Z",
+  "version": "0.1.11",
+  "notes": "生成节点标题贴合实际媒体卡片，取消缩小节点模式；已生成素材库、缩放浮层和节点右键菜单统一为浅色液态玻璃工作台。节点右键支持复制、删除与一键导入资产，执行后立即收起菜单。",
+  "pub_date": "2026-08-19T04:07:39Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWXJ4SkE1UmQ0cG5RU2xqc0orMHhtSzFMcC9xcFd3WkpML3phSUE0UUxKSHZGenk1bElxUkxDUm84MFVKd2dSZEYyZHk0RnZvemJQYU1vanlHdjhXb3Jwb2ZXNXRXN3dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MTA0Mjg2CWZpbGU6UlVTRE8gVFZfMC4xLjEwX3g2NC1zZXR1cC5leGUKWGQ1M2dGRFpUNVBhVXltQ3FscGtjZjllaGR3UFBxeEg3dGxDdFJxeDZQQW5icitaK2JlOGZFLzZVd005THU1YlBnczJXVXF2Y2pMUis4MURDRDRvRFE9PQo=",
-      "url": "https://github.com/weibinyan854-ctrl/AIGC-Canvas-Releases/releases/download/v0.1.10/RUSDO.TV_0.1.10_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWXJ4SkE1UmQ0cHVZNzNhNnE3bzBOUXNtb2puT2podnpJdlk2VlhtVlExdTFYN1R4OGlMV0xIUDVjOHNhdzJ4aTZwV2RGdFN6ZTZmdlRDNVg5ODZBRVZDd2toSkVQN2cwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MTEyNDQ0CWZpbGU6UlVTRE8gVFZfMC4xLjExX3g2NC1zZXR1cC5leGUKUmpIZ0x5Z3ZZeEdQa2dWZ0NtNnVlTkdCWW0yWXBKdkZ2dEVhcU4yVUdpTjZaQ0dJcjV3NUl2MTE0TXFib2hIZitBa3pWZ3pWNTVSNkpPZ0lDRUQ0RHc9PQo=",
+      "url": "https://github.com/weibinyan854-ctrl/AIGC-Canvas-Releases/releases/download/v0.1.11/RUSDO.TV_0.1.11_x64-setup.exe"
     }
   }
 }
