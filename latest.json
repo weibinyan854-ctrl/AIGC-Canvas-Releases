@@ -1,11 +1,11 @@
 {
-  "version": "0.1.9",
-  "notes": "修复安装版生成节点控制舱透明、与预览未居中的问题；图片与视频统一为稳定的磨砂控制舱。此版本更换更新签名密钥：0.1.8 及更早版本请手动安装一次完整安装包，之后恢复软件内更新。",
-  "pub_date": "2026-08-19T01:33:35Z",
+  "version": "0.1.10",
+  "notes": "修复安装版中图片、视频生成节点控制舱与预览图中心脱节、向左偏移的问题。控制舱现重新跟随节点 DOM Overlay，在缩放、平移和拖动时与预览共用同一坐标系。",
+  "pub_date": "2026-08-19T01:52:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWXJ4SkE1UmQ0cHBQRXhQWExqTCtTYTVQaEYzUTk1Zk9uVERlU0NUVG8ySk9GY2VoMUxDVnU3QmRpKzNqcWo2ckpEb1g4aktXMk1JNzdUZHNxYmV5U2hjZFJGblNqdFFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MTAzMTk1CWZpbGU6UlVTRE8gVFZfMC4xLjlfeDY0LXNldHVwLmV4ZQo2OFZLV0dlRFRHeTVKbnpxQzNXdFNzRzE4RWxDeEY0ekYySEJ3WUVGR0NZWjNPbWZ1eHNHVU5GdmlqdTcwakVHaUhoY3pZK05QWklEQkRjVWIzUi9BQT09Cg==",
-      "url": "https://github.com/weibinyan854-ctrl/AIGC-Canvas-Releases/releases/download/v0.1.9/RUSDO.TV_0.1.9_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWXJ4SkE1UmQ0cG5RU2xqc0orMHhtSzFMcC9xcFd3WkpML3phSUE0UUxKSHZGenk1bElxUkxDUm84MFVKd2dSZEYyZHk0RnZvemJQYU1vanlHdjhXb3Jwb2ZXNXRXN3dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MTA0Mjg2CWZpbGU6UlVTRE8gVFZfMC4xLjEwX3g2NC1zZXR1cC5leGUKWGQ1M2dGRFpUNVBhVXltQ3FscGtjZjllaGR3UFBxeEg3dGxDdFJxeDZQQW5icitaK2JlOGZFLzZVd005THU1YlBnczJXVXF2Y2pMUis4MURDRDRvRFE9PQo=",
+      "url": "https://github.com/weibinyan854-ctrl/AIGC-Canvas-Releases/releases/download/v0.1.10/RUSDO.TV_0.1.10_x64-setup.exe"
     }
   }
 }
