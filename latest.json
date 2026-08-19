@@ -1,11 +1,11 @@
 {
-  "version": "0.1.14",
-  "notes": "恢复与预览版一致的白色磨砂玻璃节点材质；不再用实体白板替代原有的白色玻璃底板。保留白色工作台偏好迁移，避免旧版深色偏好导致生成节点显示为深色透明材质。",
-  "pub_date": "2026-08-19T09:20:22Z",
+  "version": "0.1.15",
+  "notes": "图片、视频、文本、音频节点统一使用纯白色磨砂玻璃底板：不透出画布或素材，保留柔和高光；展开态保持单层底板。",
+  "pub_date": "2026-08-19T09:36:07Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWXJ4SkE1UmQ0cG9PeXc0RCs3a1JKSi9uVDF0M2ZWaW9NT1ZGeHhRQVpuSjU2ekI1UHRCU0tBbG9YQmdUQ0hrMVdiQUh0dVBXakZMMEV4ZC9kZ3FCbjdobUlJam9zaXc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MTMxMjE2CWZpbGU6UlVTRE8gVFZfMC4xLjE0X3g2NC1zZXR1cC5leGUKZ1JYTWZZU1BYLzRIQ3ZqUmNjdmRYM1JxU3p2VHljT2QxZWk1Njlsc1BRRmtIaGVhUXk4UG1YOFF6Tm1yejVBQ2dCM3RWaVVLWGZnTGVKb3pVOXhoQmc9PQo=",
-      "url": "https://github.com/weibinyan854-ctrl/AIGC-Canvas-Releases/releases/download/v0.1.14/RUSDO.TV_0.1.14_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWXJ4SkE1UmQ0cHNjelFycTg3bkxkMmZnYjB2UEVhSWIzKzhpOEZ0bEZaSnRlaFRwdlRBVW5EUG5ENEZUNndoUXlNV3BXU2ZjU3EvS1lJRTd4cVIyRHhlUEhFbU9CNndVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MTMyMTU1CWZpbGU6UlVTRE8gVFZfMC4xLjE1X3g2NC1zZXR1cC5leGUKalZDU3MzUTdsVGVoamZWRjY1TGVDVTYwVmVZWWtZRWlhTXdmQU9iRG9TMlZUTkU4S3BoL0k4UkUrSFh5Zy9KMm4vdmZZVHpCYzRzWW1aM1l4MEdHQ1E9PQo=",
+      "url": "https://github.com/weibinyan854-ctrl/AIGC-Canvas-Releases/releases/download/v0.1.15/RUSDO.TV_0.1.15_x64-setup.exe"
     }
   }
 }
