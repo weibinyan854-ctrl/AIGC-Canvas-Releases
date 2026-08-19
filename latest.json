@@ -1,11 +1,11 @@
 {
-  "version": "0.1.11",
-  "notes": "生成节点标题贴合实际媒体卡片，取消缩小节点模式；已生成素材库、缩放浮层和节点右键菜单统一为浅色液态玻璃工作台。节点右键支持复制、删除与一键导入资产，执行后立即收起菜单。",
-  "pub_date": "2026-08-19T04:07:39Z",
+  "version": "0.1.12",
+  "notes": "新增可直接输入的文本节点，可连接到图片或视频生成节点并将连接文本作为提示词直接提交；文本提示词与参考素材分行显示。文本和音频节点统一为纯白磨砂玻璃，文本节点支持调整大小并优化轻点编辑、按住拖动手势。",
+  "pub_date": "2026-08-19T08:23:35Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWXJ4SkE1UmQ0cHVZNzNhNnE3bzBOUXNtb2puT2podnpJdlk2VlhtVlExdTFYN1R4OGlMV0xIUDVjOHNhdzJ4aTZwV2RGdFN6ZTZmdlRDNVg5ODZBRVZDd2toSkVQN2cwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MTEyNDQ0CWZpbGU6UlVTRE8gVFZfMC4xLjExX3g2NC1zZXR1cC5leGUKUmpIZ0x5Z3ZZeEdQa2dWZ0NtNnVlTkdCWW0yWXBKdkZ2dEVhcU4yVUdpTjZaQ0dJcjV3NUl2MTE0TXFib2hIZitBa3pWZ3pWNTVSNkpPZ0lDRUQ0RHc9PQo=",
-      "url": "https://github.com/weibinyan854-ctrl/AIGC-Canvas-Releases/releases/download/v0.1.11/RUSDO.TV_0.1.11_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWXJ4SkE1UmQ0cGdIL0sydHYwSDVYMVNuVzA0d245d0p5WjhtSGZYQ1NpU2xaUXdTOXRQNytsRnRqTkdmeVpRSHNmdFN1OXRPRmI5Zi8rdU9RcHNJVHBhYi90eG4rbWd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MTI3ODAxCWZpbGU6UlVTRE8gVFZfMC4xLjEyX3g2NC1zZXR1cC5leGUKMkFmTFAycFozTUpKK0Z1bHJiOVBTaGNVWkh6TjJxMEVoRVBtbnBGekpDUVR2elY5UUVMMkVWbHlaaHMyY0hzQjJDSjcyY0FnRlVyMjNqUHFuZU5qQlE9PQo=",
+      "url": "https://github.com/weibinyan854-ctrl/AIGC-Canvas-Releases/releases/download/v0.1.12/RUSDO.TV_0.1.12_x64-setup.exe"
     }
   }
 }
