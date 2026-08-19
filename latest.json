@@ -1,11 +1,11 @@
 {
-  "version": "0.1.8",
-  "notes": "新增节点边缘吸附：拖动时贴合其他节点的左、右、上、下边缘，并显示精确边界辅助线；支持多选整体吸附。",
-  "pub_date": "2026-08-18T11:21:11Z",
+  "version": "0.1.9",
+  "notes": "修复安装版生成节点控制舱透明、与预览未居中的问题；图片与视频统一为稳定的磨砂控制舱。此版本更换更新签名密钥：0.1.7 及更早版本请手动安装一次完整安装包，之后恢复软件内更新。",
+  "pub_date": "2026-08-19T01:33:35Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTEw4WGFvT1IzOU9GTkw5Q2xuZ0NISUoxUkJrcWQ2d0ZjQ3Fmd056TE9DMTRrSVRuU0loY1k0YmpXM2xGZGorWG5Gbk9md0Q0SjIycmt2VnkxeDJWbGxsdFVGYWVmanc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MDUyMDQwCWZpbGU6UlVTRE8gVFZfMC4xLjhfeDY0LXNldHVwLmV4ZQp3aDR2Uk9XUWhhY251MHd6blhJa3VCMHQ3MGhUcVlqVE1kSE1BdFFlWlZCTGxWcElFOXhyemFWZ0YrMUV4MVdtNzlZOUt0anRLUFd1L1NvNUxiT2FDdz09Cg==",
-      "url": "https://github.com/weibinyan854-ctrl/AIGC-Canvas-Releases/releases/download/v0.1.8/RUSDO.TV_0.1.8_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWXJ4SkE1UmQ0cHBQRXhQWExqTCtTYTVQaEYzUTk1Zk9uVERlU0NUVG8ySk9GY2VoMUxDVnU3QmRpKzNqcWo2ckpEb1g4aktXMk1JNzdUZHNxYmV5U2hjZFJGblNqdFFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MTAzMTk1CWZpbGU6UlVTRE8gVFZfMC4xLjlfeDY0LXNldHVwLmV4ZQo2OFZLV0dlRFRHeTVKbnpxQzNXdFNzRzE4RWxDeEY0ekYySEJ3WUVGR0NZWjNPbWZ1eHNHVU5GdmlqdTcwakVHaUhoY3pZK05QWklEQkRjVWIzUi9BQT09Cg==",
+      "url": "https://github.com/weibinyan854-ctrl/AIGC-Canvas-Releases/releases/download/v0.1.9/RUSDO.TV_0.1.9_x64-setup.exe"
     }
   }
 }
