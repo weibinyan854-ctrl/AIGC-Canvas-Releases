@@ -1,11 +1,11 @@
 {
-  "version": "0.1.12",
-  "notes": "新增可直接输入的文本节点，可连接到图片或视频生成节点并将连接文本作为提示词直接提交；文本提示词与参考素材分行显示。文本和音频节点统一为纯白磨砂玻璃，文本节点支持调整大小并优化轻点编辑、按住拖动手势。",
-  "pub_date": "2026-08-19T08:23:35Z",
+  "version": "0.1.13",
+  "notes": "修复发布版生成节点底板仍呈半透明的问题：图片、视频、文本与音频节点统一使用实体纯白磨砂底板。新安装与从旧版升级的工作台会默认使用白色主题，确保发布版与预览版视觉一致。",
+  "pub_date": "2026-08-19T08:42:59Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWXJ4SkE1UmQ0cGdIL0sydHYwSDVYMVNuVzA0d245d0p5WjhtSGZYQ1NpU2xaUXdTOXRQNytsRnRqTkdmeVpRSHNmdFN1OXRPRmI5Zi8rdU9RcHNJVHBhYi90eG4rbWd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MTI3ODAxCWZpbGU6UlVTRE8gVFZfMC4xLjEyX3g2NC1zZXR1cC5leGUKMkFmTFAycFozTUpKK0Z1bHJiOVBTaGNVWkh6TjJxMEVoRVBtbnBGekpDUVR2elY5UUVMMkVWbHlaaHMyY0hzQjJDSjcyY0FnRlVyMjNqUHFuZU5qQlE9PQo=",
-      "url": "https://github.com/weibinyan854-ctrl/AIGC-Canvas-Releases/releases/download/v0.1.12/RUSDO.TV_0.1.12_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWXJ4SkE1UmQ0cGg2NjVxQ1Z5MFV0cDdRNmdiYVZUbkN5dzY3QjFXblB6eTd5NUxyRTdLbHVBeVNvSldoYjlDcUpXMTRrR0NXMC9UOUhzS1N0a3JDdnpRSVNNU2hjeUEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MTI4OTc0CWZpbGU6UlVTRE8gVFZfMC4xLjEzX3g2NC1zZXR1cC5leGUKV1l6eG5QaGZWTzNsU2pmaG8zdFpzSW90TjY0VUhKYTBDVmwySmVCcUJ5anNhcG5XdFhQTG1NSURZTk1xblpYZzNhdDlpVXZVWDF0V29paENOODl3REE9PQo=",
+      "url": "https://github.com/weibinyan854-ctrl/AIGC-Canvas-Releases/releases/download/v0.1.13/RUSDO.TV_0.1.13_x64-setup.exe"
     }
   }
 }
