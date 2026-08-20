@@ -1,11 +1,11 @@
 {
-  "version": "0.1.17",
-  "notes": "发布基线与当前桌面预览一致；修复视频节点 @ 参考图提交不再创建额外图片节点，并修复连接长文本提示词被旧本地限制错误拦截。",
-  "pub_date": "2026-08-20T10:00:00Z",
+  "version": "0.1.18",
+  "notes": "以当前开发桌面预览为唯一视觉基线，从全新的发布目录重新构建；保留预览中的纯白磨砂玻璃、背景模糊、透明度、动效和节点交互，并修复本机历史安装路径。",
+  "pub_date": "2026-08-20T10:49:45Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWXJ4SkE1UmQ0cHNTU21Ed1ZaMW9JMHgzcmlyZU9FUzlWN3dobHYyckFUdGNmaDVYQ241eWppSmVHVExGOE0yamJib3k3bCtCUS9uV00vWXVnNlB1WmpUUms2K1hsVmdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MjIwMDk2CWZpbGU6UlVTRE8uVFZfMC4xLjE3X3g2NC1zZXR1cC5leGUKdDZ0azRmelN1SXFrR2RWNXFNdDBGTThsNS9vbit6R0ExSlpjMEgxSTFtTnovNVpJRXBZeTIzY09heFFnOWY0QUpkK0FpT09haVM1Z1BXVDZIMkpSQ3c9PQo=",
-      "url": "https://github.com/weibinyan854-ctrl/AIGC-Canvas-Releases/releases/download/v0.1.17/RUSDO.TV_0.1.17_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWXJ4SkE1UmQ0cHFFbUJUL2ErdldMb3QwWm1NYWZHR1BRc2NJWHF2eU5XTnZqd1loTnZubEtOMmRwTUFEdzFuZXNmVmxmSDh6aktCNU9pZTBHcHpBT2V3UDA4amVIZUE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MjIyNzc1CWZpbGU6UlVTRE8gVFZfMC4xLjE4X3g2NC1zZXR1cC5leGUKbVNuY28rMUJRckhYSDVReUlqWUlITjVTMXdINy82S2lKb3ZUbmM3V3AzR21oazkzRkgwK0lVODI0RE4vZFlnMng1OXkxa3o3SmFSblAxZmtMUkw1QUE9PQo=",
+      "url": "https://github.com/weibinyan854-ctrl/AIGC-Canvas-Releases/releases/download/v0.1.18/RUSDO.TV_0.1.18_x64-setup.exe"
     }
   }
 }
