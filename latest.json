@@ -1,11 +1,11 @@
 {
-  "version": "0.1.16",
-  "notes": "图片、视频、文本和音频节点统一为高密度纯白磨砂玻璃：白色基底保留柔化透光、漫反射、上沿高光与下沿冷色折射，不再呈现为实体白板。",
-  "pub_date": "2026-08-19T10:29:25Z",
+  "version": "0.1.17",
+  "notes": "发布基线与当前桌面预览一致；修复视频节点 @ 参考图提交不再创建额外图片节点，并修复连接长文本提示词被旧本地限制错误拦截。",
+  "pub_date": "2026-08-20T10:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWXJ4SkE1UmQ0cGg3cWxBVm9NcGRwUEVnNGQ1bGVkUzNHOVFZRGdtOWxMaC9LVGFmM0wzQzhVcHZzU3I0RXRTVjQ5VHR0UkZPakk3M2hiVWhEK0QxWTc1V0FCYWlra3dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MTM1MzU2CWZpbGU6UlVTRE8gVFZfMC4xLjE2X3g2NC1zZXR1cC5leGUKNGxaNTJJc0xyTUJrT3MwL0s2eHJIRkVLNXR0UGZXaHRjM1RkdGRxb3lKeXNzTmNnZGtHd1RWSHk1ZGVROEpDZ2ZZdkpqMGxNKzNhc1JKb3ByNldVRFE9PQo=",
-      "url": "https://github.com/weibinyan854-ctrl/AIGC-Canvas-Releases/releases/download/v0.1.16/RUSDO.TV_0.1.16_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWXJ4SkE1UmQ0cHNTU21Ed1ZaMW9JMHgzcmlyZU9FUzlWN3dobHYyckFUdGNmaDVYQ241eWppSmVHVExGOE0yamJib3k3bCtCUS9uV00vWXVnNlB1WmpUUms2K1hsVmdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MjIwMDk2CWZpbGU6UlVTRE8uVFZfMC4xLjE3X3g2NC1zZXR1cC5leGUKdDZ0azRmelN1SXFrR2RWNXFNdDBGTThsNS9vbit6R0ExSlpjMEgxSTFtTnovNVpJRXBZeTIzY09heFFnOWY0QUpkK0FpT09haVM1Z1BXVDZIMkpSQ3c9PQo=",
+      "url": "https://github.com/weibinyan854-ctrl/AIGC-Canvas-Releases/releases/download/v0.1.17/RUSDO.TV_0.1.17_x64-setup.exe"
     }
   }
 }
