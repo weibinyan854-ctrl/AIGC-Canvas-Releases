@@ -1,11 +1,11 @@
 {
-  "version": "0.1.22",
-  "notes": "修复图片与视频节点控制对话框背景模糊未真实生效的问题；控制舱统一为约 80% 乳白底与 46px 背景模糊，并移除内层重复白底。",
-  "pub_date": "2026-08-21T09:33:46Z",
+  "version": "0.1.23",
+  "notes": "修复生产安装包丢失标准 backdrop-filter 的问题；图片与视频节点控制舱统一为 80% 乳白底与 64px 强扩散模糊，并增加生产 CSS 双属性门禁。",
+  "pub_date": "2026-08-21T10:34:53Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWXJ4SkE1UmQ0cHBXQUdRemZoQjYzK2tEV0lSTEhtOEY3L05ETHhtTG9EeStJK2lQUjBMemNIODRRdUpQc3ZTZEhiL1VEY3IwdVVSTmFOZDVreEc2Rm40OHEzZUoxc0FvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MzA0NjIxCWZpbGU6UlVTRE8gVFZfMC4xLjIyX3g2NC1zZXR1cC5leGUKamdtK28xOGJzTGM0TGVXSVBVS2phTVVibThHWnpVOHBZcTVXa0hqTUY0UGVUeWN2aGVOaWplKzE2Z0drTU5ydVVpUENDR2JzVm12VXFyb2ROOEpmQWc9PQo=",
-      "url": "https://github.com/weibinyan854-ctrl/AIGC-Canvas-Releases/releases/download/v0.1.22/RUSDO.TV_0.1.22_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWXJ4SkE1UmQ0cGc5WFlvYlZlSW43eWFFR0Z6LzFMZ1ZrbUlaZ3hvQXhodHFxL25razZIOFhONmZZOFRqSlRobXdKWnlYaXd0bzhjSUxMcHVCQVVLQVFqNmRQOHVCdVFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MzA4MzI0CWZpbGU6UlVTRE8uVFZfMC4xLjIzX3g2NC1zZXR1cC5leGUKVEVpKy9LWkgyMUkxZU5KODFCTjlhQlVDQ3Q2Z1g0eXpjcXdWNE84cmJvWDcxTjI1L3J4Ynd2MC9oWUtRZUN6VzQ5dWYwQlZKYzJqL2M2UHhvc3VBRFE9PQo=",
+      "url": "https://github.com/weibinyan854-ctrl/AIGC-Canvas-Releases/releases/download/v0.1.23/RUSDO.TV_0.1.23_x64-setup.exe"
     }
   }
 }
