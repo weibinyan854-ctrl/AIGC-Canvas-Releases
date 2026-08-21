@@ -1,11 +1,11 @@
 {
-  "version": "0.1.21",
-  "notes": "修复图片生成节点展开后背景模糊未真实生效的问题；分离遮罩、磨砂采样与内容层，并保持安装版与已验收预览一致。",
-  "pub_date": "2026-08-21T08:41:00Z",
+  "version": "0.1.20",
+  "notes": "Image 2 新增低、中、高质量选择；修复图片与视频生成节点在正式更新后丢失白色磨砂模糊、退化为透明底板的问题，并建立预览与安装包一致性校验。",
+  "pub_date": "2026-08-21T07:25:54Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWXJ4SkE1UmQ0cG11bGhBd1Y2THVSWnU3aUYrbFNBTndZbTVONUNmWFZxQnpLaktDWDhlc3Z1YzVmbnJQcDdlWjk1WU9FQU83YmYxVjZaMHd4SG4vUjRyb2R0L2pRZlFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MzAwNzY1CWZpbGU6UlVTRE8gVFZfMC4xLjIxX3g2NC1zZXR1cC5leGUKd0NrYU1aUGQxTExDcFhLeHFuMWVxS1Jqa1dWUHlyakV2RVNVamxHNmtzbGJuWVF1NktyWWZJeThlVU9seDhhaDNCMVpXOXFLY3ZkdUxma3ZkNXV3QXc9PQo=",
-      "url": "https://github.com/weibinyan854-ctrl/AIGC-Canvas-Releases/releases/download/v0.1.21/RUSDO.TV_0.1.21_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWXJ4SkE1UmQ0cG54TGEzNnZNTUhoa2FUZlZucHptWGZVYnZwcGxEeDcrSEhaMmpYZHNqVDFpamhPZTYwVkphaGxtZmJEamhKbUJ3WFJURm01b0cwQUxHQzZ2VWU5RWcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3Mjk2ODUyCWZpbGU6UlVTRE8gVFZfMC4xLjIwX3g2NC1zZXR1cC5leGUKQ0VjLzdyMy8rR0NpV3psSkJsdXVMbVZobko4TFFUUXVRUkM1dnNLcWt3NnlVbTZjSlJuSWtneXA0U3RqTHRMZTA4dmVpdzdBd3h3NS91YU1hWHFkQ3c9PQo=",
+      "url": "https://github.com/weibinyan854-ctrl/AIGC-Canvas-Releases/releases/download/v0.1.20/RUSDO.TV_0.1.20_x64-setup.exe"
     }
   }
 }
