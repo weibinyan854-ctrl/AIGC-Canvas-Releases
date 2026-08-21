@@ -1,11 +1,11 @@
 {
-  "version": "0.1.20",
-  "notes": "Image 2 新增低、中、高质量选择；修复图片与视频生成节点在正式更新后丢失白色磨砂模糊、退化为透明底板的问题，并建立预览与安装包一致性校验。",
-  "pub_date": "2026-08-21T07:25:54Z",
+  "version": "0.1.22",
+  "notes": "修复图片与视频节点控制对话框背景模糊未真实生效的问题；控制舱统一为约 80% 乳白底与 46px 背景模糊，并移除内层重复白底。",
+  "pub_date": "2026-08-21T09:33:46Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWXJ4SkE1UmQ0cG54TGEzNnZNTUhoa2FUZlZucHptWGZVYnZwcGxEeDcrSEhaMmpYZHNqVDFpamhPZTYwVkphaGxtZmJEamhKbUJ3WFJURm01b0cwQUxHQzZ2VWU5RWcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3Mjk2ODUyCWZpbGU6UlVTRE8gVFZfMC4xLjIwX3g2NC1zZXR1cC5leGUKQ0VjLzdyMy8rR0NpV3psSkJsdXVMbVZobko4TFFUUXVRUkM1dnNLcWt3NnlVbTZjSlJuSWtneXA0U3RqTHRMZTA4dmVpdzdBd3h3NS91YU1hWHFkQ3c9PQo=",
-      "url": "https://github.com/weibinyan854-ctrl/AIGC-Canvas-Releases/releases/download/v0.1.20/RUSDO.TV_0.1.20_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWXJ4SkE1UmQ0cHBXQUdRemZoQjYzK2tEV0lSTEhtOEY3L05ETHhtTG9EeStJK2lQUjBMemNIODRRdUpQc3ZTZEhiL1VEY3IwdVVSTmFOZDVreEc2Rm40OHEzZUoxc0FvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MzA0NjIxCWZpbGU6UlVTRE8gVFZfMC4xLjIyX3g2NC1zZXR1cC5leGUKamdtK28xOGJzTGM0TGVXSVBVS2phTVVibThHWnpVOHBZcTVXa0hqTUY0UGVUeWN2aGVOaWplKzE2Z0drTU5ydVVpUENDR2JzVm12VXFyb2ROOEpmQWc9PQo=",
+      "url": "https://github.com/weibinyan854-ctrl/AIGC-Canvas-Releases/releases/download/v0.1.22/RUSDO.TV_0.1.22_x64-setup.exe"
     }
   }
 }
