@@ -1,11 +1,11 @@
 {
-  "version": "0.1.19",
-  "notes": "以 2026-08-21 当前桌面预览为唯一视觉与交互基线，从全新目录构建；统一纯白磨砂玻璃与背景模糊，并消除底板边缘硬线和错位双线。",
-  "pub_date": "2026-08-21T06:11:52Z",
+  "version": "0.1.20",
+  "notes": "Image 2 新增低、中、高质量选择；修复图片与视频生成节点在正式更新后丢失白色磨砂模糊、退化为透明底板的问题，并建立预览与安装包一致性校验。",
+  "pub_date": "2026-08-21T07:25:54Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWXJ4SkE1UmQ0cG9Bb3prRHMyUFJqTC9Pc0w1c0l6b0dGT0IvbTNZdVhnNUtlZVJmbTg5aWxQT3cydzBhNExLcndjMzlHbk95NVdaVk5iTzRIWURYWFJmQjArbXlQQmdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MjkyNjc5CWZpbGU6UlVTRE8gVFZfMC4xLjE5X3g2NC1zZXR1cC5leGUKVXdCS3hjYTgvK0NTbVNyckhZbDNKdHc4bm95aXErOG4vWVJPU1pnOGhyNG8vN1Erc2hDSXVWYUJ2Qnk1WHZzRHJIcEpCS0xZYys5dW4rOFVVeGx2RGc9PQo=",
-      "url": "https://github.com/weibinyan854-ctrl/AIGC-Canvas-Releases/releases/download/v0.1.19/RUSDO.TV_0.1.19_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWXJ4SkE1UmQ0cG54TGEzNnZNTUhoa2FUZlZucHptWGZVYnZwcGxEeDcrSEhaMmpYZHNqVDFpamhPZTYwVkphaGxtZmJEamhKbUJ3WFJURm01b0cwQUxHQzZ2VWU5RWcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3Mjk2ODUyCWZpbGU6UlVTRE8gVFZfMC4xLjIwX3g2NC1zZXR1cC5leGUKQ0VjLzdyMy8rR0NpV3psSkJsdXVMbVZobko4TFFUUXVRUkM1dnNLcWt3NnlVbTZjSlJuSWtneXA0U3RqTHRMZTA4dmVpdzdBd3h3NS91YU1hWHFkQ3c9PQo=",
+      "url": "https://github.com/weibinyan854-ctrl/AIGC-Canvas-Releases/releases/download/v0.1.20/RUSDO.TV_0.1.20_x64-setup.exe"
     }
   }
 }
