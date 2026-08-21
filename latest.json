@@ -1,11 +1,11 @@
 {
-  "version": "0.1.23",
-  "notes": "修复生产安装包丢失标准 backdrop-filter 的问题；图片与视频节点控制舱统一为 80% 乳白底与 64px 强扩散模糊，并增加生产 CSS 双属性门禁。",
-  "pub_date": "2026-08-21T10:34:53Z",
+  "version": "0.1.24",
+  "notes": "生成图片或视频成功保存并进入画布后，自动清理如意后端任务；失败不影响本地成品，并会在下次打开项目时重试。",
+  "pub_date": "2026-08-21T11:14:38Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWXJ4SkE1UmQ0cGc5WFlvYlZlSW43eWFFR0Z6LzFMZ1ZrbUlaZ3hvQXhodHFxL25razZIOFhONmZZOFRqSlRobXdKWnlYaXd0bzhjSUxMcHVCQVVLQVFqNmRQOHVCdVFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MzA4MzI0CWZpbGU6UlVTRE8uVFZfMC4xLjIzX3g2NC1zZXR1cC5leGUKVEVpKy9LWkgyMUkxZU5KODFCTjlhQlVDQ3Q2Z1g0eXpjcXdWNE84cmJvWDcxTjI1L3J4Ynd2MC9oWUtRZUN6VzQ5dWYwQlZKYzJqL2M2UHhvc3VBRFE9PQo=",
-      "url": "https://github.com/weibinyan854-ctrl/AIGC-Canvas-Releases/releases/download/v0.1.23/RUSDO.TV_0.1.23_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWXJ4SkE1UmQ0cHF2ai9wUU9ZOGg3d0NUekdaT04xRTJCTUdSbFhmd0t3WmpzZEV0UUhoQitOcU9BWkFHZzRyRHEwSVM5aXU1UW4xSDViZWpSbkVJT2ZwWE9GNnBHRFEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MzEwODU5CWZpbGU6UlVTRE8uVFZfMC4xLjI0X3g2NC1zZXR1cC5leGUKKzNpUHhhNUNqcDhaS3dDRm96N3pJWjIveDZqNVI4MEY0emU3NmkzdHYzVGxUQzd2UGNaeVNad0QycW1MV1IxWVcxdUo2VUVmUnZRMFN2eHVlOWVuQkE9PQo=",
+      "url": "https://github.com/weibinyan854-ctrl/AIGC-Canvas-Releases/releases/download/v0.1.24/RUSDO.TV_0.1.24_x64-setup.exe"
     }
   }
 }
