@@ -1,11 +1,11 @@
 {
-  "version": "0.1.24",
-  "notes": "生成图片或视频成功保存并进入画布后，自动清理如意后端任务；失败不影响本地成品，并会在下次打开项目时重试。",
-  "pub_date": "2026-08-21T11:14:38Z",
+  "version": "0.1.25",
+  "notes": "修复图片和视频节点控制舱玻璃底板偏移、动效脱节与交互卡顿；玻璃材质与控件改为同一坐标和动画对象。",
+  "pub_date": "2026-08-22T01:24:11Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWXJ4SkE1UmQ0cHF2ai9wUU9ZOGg3d0NUekdaT04xRTJCTUdSbFhmd0t3WmpzZEV0UUhoQitOcU9BWkFHZzRyRHEwSVM5aXU1UW4xSDViZWpSbkVJT2ZwWE9GNnBHRFEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MzEwODU5CWZpbGU6UlVTRE8uVFZfMC4xLjI0X3g2NC1zZXR1cC5leGUKKzNpUHhhNUNqcDhaS3dDRm96N3pJWjIveDZqNVI4MEY0emU3NmkzdHYzVGxUQzd2UGNaeVNad0QycW1MV1IxWVcxdUo2VUVmUnZRMFN2eHVlOWVuQkE9PQo=",
-      "url": "https://github.com/weibinyan854-ctrl/AIGC-Canvas-Releases/releases/download/v0.1.24/RUSDO.TV_0.1.24_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWXJ4SkE1UmQ0cHVqY0xiY0ErNlI4dzJGUm9kUDJ2NjRGM0hlSUpSMXM1TnFWOUpHb3NCYjRiSlFLbi92WDYwSjlyeHNzcTJJd1lQOXB4ajZSZXkyaDdBNHo4Zjk4Q0FBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MzYxNjEzCWZpbGU6UlVTRE8gVFZfMC4xLjI1X3g2NC1zZXR1cC5leGUKZExqWXVlT3ZIVVNpUktZWnRWTUM3WXByK2dWaFJxN0F4R0hNZWxiTG5YVzBxZmJ0Z0h5TnNUZmJNdTRBQS9BQ1lqcU1BZ29Ua01WdkMxTUV6TVk2QUE9PQo=",
+      "url": "https://github.com/weibinyan854-ctrl/AIGC-Canvas-Releases/releases/download/v0.1.25/RUSDO.TV_0.1.25_x64-setup.exe"
     }
   }
 }
