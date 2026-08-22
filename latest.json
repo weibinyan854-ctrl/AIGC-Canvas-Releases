@@ -1,11 +1,11 @@
 {
-  "version": "0.1.25",
-  "notes": "修复图片和视频节点控制舱玻璃底板偏移、动效脱节与交互卡顿；玻璃材质与控件改为同一坐标和动画对象。",
-  "pub_date": "2026-08-22T01:24:11Z",
+  "version": "0.1.26",
+  "notes": "修复多节点复制后连线断开：副本以新 ID 重建内部关系，复制、粘贴、Alt 拖动与撤销/重做保持一致。",
+  "pub_date": "2026-08-22T09:30:06Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWXJ4SkE1UmQ0cHVqY0xiY0ErNlI4dzJGUm9kUDJ2NjRGM0hlSUpSMXM1TnFWOUpHb3NCYjRiSlFLbi92WDYwSjlyeHNzcTJJd1lQOXB4ajZSZXkyaDdBNHo4Zjk4Q0FBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MzYxNjEzCWZpbGU6UlVTRE8gVFZfMC4xLjI1X3g2NC1zZXR1cC5leGUKZExqWXVlT3ZIVVNpUktZWnRWTUM3WXByK2dWaFJxN0F4R0hNZWxiTG5YVzBxZmJ0Z0h5TnNUZmJNdTRBQS9BQ1lqcU1BZ29Ua01WdkMxTUV6TVk2QUE9PQo=",
-      "url": "https://github.com/weibinyan854-ctrl/AIGC-Canvas-Releases/releases/download/v0.1.25/RUSDO.TV_0.1.25_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWXJ4SkE1UmQ0cG9laExuYVVYZUhSMUpuTzZNL3JUdSt4VEU5VzBpZXJXTmNCV2JVWUJQZzdHZCsxWkE2K2VZaHphY2dJK3FGejNyM2ZwNTN0ekJOck1kRUlxekpPcHd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MzkwNjg0CWZpbGU6UlVTRE8gVFZfMC4xLjI2X3g2NC1zZXR1cC5leGUKR3FEczlQY004NFpTUXFNWnlOaVhzZjhQdE5FV09xYXR5MnpWNFkrV1A0WTA1TDZ6aHBGWURUL2ptZG1qSlJwUEhESUR2V1NxWm9vZUN3NFVWWm4xQUE9PQo=",
+      "url": "https://github.com/weibinyan854-ctrl/AIGC-Canvas-Releases/releases/download/v0.1.26/RUSDO.TV_0.1.26_x64-setup.exe"
     }
   }
 }
