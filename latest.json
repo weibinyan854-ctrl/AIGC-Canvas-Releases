@@ -1,11 +1,11 @@
 {
-  "version": "0.1.26",
-  "notes": "修复多节点复制后连线断开：副本以新 ID 重建内部关系，复制、粘贴、Alt 拖动与撤销/重做保持一致。",
-  "pub_date": "2026-08-22T09:30:06Z",
+  "version": "0.1.27",
+  "notes": "图片原图预览在滚轮放大后可按住拖动查看细节；优化文本节点默认文字色与文本选中态，浅色和深色主题下均保持清晰可读。",
+  "pub_date": "2026-08-24T03:42:40Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWXJ4SkE1UmQ0cG9laExuYVVYZUhSMUpuTzZNL3JUdSt4VEU5VzBpZXJXTmNCV2JVWUJQZzdHZCsxWkE2K2VZaHphY2dJK3FGejNyM2ZwNTN0ekJOck1kRUlxekpPcHd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MzkwNjg0CWZpbGU6UlVTRE8gVFZfMC4xLjI2X3g2NC1zZXR1cC5leGUKR3FEczlQY004NFpTUXFNWnlOaVhzZjhQdE5FV09xYXR5MnpWNFkrV1A0WTA1TDZ6aHBGWURUL2ptZG1qSlJwUEhESUR2V1NxWm9vZUN3NFVWWm4xQUE9PQo=",
-      "url": "https://github.com/weibinyan854-ctrl/AIGC-Canvas-Releases/releases/download/v0.1.26/RUSDO.TV_0.1.26_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWXJ4SkE1UmQ0cGk4K1lHN2pzWktCUWx4b2JtbkFXck03NDd3d2lGMVhxTXU4TisyT0N5M1h4RjVNbVFLV2VFY3NxRmFadnhDS2tlWXRJOFhNYVV6MzhDb25tblVmblFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3NTQyODY3CWZpbGU6UlVTRE8uVFZfMC4xLjI3X3g2NC1zZXR1cC5leGUKaEdQcFZrMUFHUkV3YXBJdXp3VDAxai8vNUFaUFFYbW1oUExqVHRVaE1NckhyOGkvaGdmMDRyeFIwSXE1N2VicVhtcFNLYkpiUEJrNERUVFFYQXJPQXc9PQo=",
+      "url": "https://github.com/weibinyan854-ctrl/AIGC-Canvas-Releases/releases/download/v0.1.27/RUSDO.TV_0.1.27_x64-setup.exe"
     }
   }
 }
