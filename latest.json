@@ -1,11 +1,11 @@
 {
-  "version": "0.1.27",
-  "notes": "图片原图预览在滚轮放大后可按住拖动查看细节；优化文本节点默认文字色与文本选中态，浅色和深色主题下均保持清晰可读。",
-  "pub_date": "2026-08-24T03:42:40Z",
+  "version": "0.1.28",
+  "notes": "协作模式改为统一双人云端画布：点击即可进入，无需邀请文件；支持明确退出与再次进入，并保护已有本地内容不被空白云端快照覆盖。",
+  "pub_date": "2026-08-26T02:22:37Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWXJ4SkE1UmQ0cGk4K1lHN2pzWktCUWx4b2JtbkFXck03NDd3d2lGMVhxTXU4TisyT0N5M1h4RjVNbVFLV2VFY3NxRmFadnhDS2tlWXRJOFhNYVV6MzhDb25tblVmblFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3NTQyODY3CWZpbGU6UlVTRE8uVFZfMC4xLjI3X3g2NC1zZXR1cC5leGUKaEdQcFZrMUFHUkV3YXBJdXp3VDAxai8vNUFaUFFYbW1oUExqVHRVaE1NckhyOGkvaGdmMDRyeFIwSXE1N2VicVhtcFNLYkpiUEJrNERUVFFYQXJPQXc9PQo=",
-      "url": "https://github.com/weibinyan854-ctrl/AIGC-Canvas-Releases/releases/download/v0.1.27/RUSDO.TV_0.1.27_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWXJ4SkE1UmQ0cGdzZHFpUG5RVGM3REx5L3RFRDFRL2E3MUtRV3IwNDNjMEI0WEhZYzNRWjJtODNsVTU3K2VKSFJzeXlZZHR6U0ttMG9DbmNUOHpkT3JpSk5aQ0QwSGdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3NzA5OTI0CWZpbGU6UlVTRE8gVFZfMC4xLjI4X3g2NC1zZXR1cC5leGUKcUZZbXVNUkJQNDBLSUxYcHQ0QVY0S0t3T3dXdkJVN0g2ZVNET0ZjZFpHS0Y1TGhrdVFLWUduWk91bjZoSE9EUFUzUUU0QWl0RmxaRnBCRnRVdzVlQlE9PQo=",
+      "url": "https://github.com/weibinyan854-ctrl/AIGC-Canvas-Releases/releases/download/v0.1.28/RUSDO.TV_0.1.28_x64-setup.exe"
     }
   }
 }
