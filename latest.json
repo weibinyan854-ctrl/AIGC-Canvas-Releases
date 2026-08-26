@@ -1,11 +1,11 @@
 {
-  "version": "0.1.28",
-  "notes": "协作模式改为统一双人云端画布：点击即可进入，无需邀请文件；支持明确退出与再次进入，并保护已有本地内容不被空白云端快照覆盖。",
-  "pub_date": "2026-08-26T02:22:37Z",
+  "version": "0.1.29",
+  "notes": "协作模式暂时停用：云端同步与入口均已关闭，当前画布继续以本地方式安全保存。",
+  "pub_date": "2026-08-26T10:06:38Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWXJ4SkE1UmQ0cGdzZHFpUG5RVGM3REx5L3RFRDFRL2E3MUtRV3IwNDNjMEI0WEhZYzNRWjJtODNsVTU3K2VKSFJzeXlZZHR6U0ttMG9DbmNUOHpkT3JpSk5aQ0QwSGdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3NzA5OTI0CWZpbGU6UlVTRE8gVFZfMC4xLjI4X3g2NC1zZXR1cC5leGUKcUZZbXVNUkJQNDBLSUxYcHQ0QVY0S0t3T3dXdkJVN0g2ZVNET0ZjZFpHS0Y1TGhrdVFLWUduWk91bjZoSE9EUFUzUUU0QWl0RmxaRnBCRnRVdzVlQlE9PQo=",
-      "url": "https://github.com/weibinyan854-ctrl/AIGC-Canvas-Releases/releases/download/v0.1.28/RUSDO.TV_0.1.28_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWXJ4SkE1UmQ0cGtDZnNIQzZxZVJaLzJKd0pDdm9tc3JRU25BK20yQjlLWDE1WkdHVlpsa1Rrd3k3UklxdC9NQkhaUE1WQ2k4dytoNDNlY1RoMHNwWXVNK21ucmlUdEFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3NzM4NDg1CWZpbGU6UlVTRE8uVFZfMC4xLjI5X3g2NC1zZXR1cC5leGUKQU9LQ1BQWTFYMWwyNTZkRHU0Skd4YjlnaWpKTEdvU0JMRHJhUG9LYW4wQllJbHNZRjVRcDVXdTdiTlRQakhBWjhxWGxSd3ZObzVPeXgySkkwWkZ0RHc9PQo=",
+      "url": "https://github.com/weibinyan854-ctrl/AIGC-Canvas-Releases/releases/download/v0.1.29/RUSDO.TV_0.1.29_x64-setup.exe"
     }
   }
 }
