@@ -1,11 +1,11 @@
 {
-  "version": "0.1.29",
-  "notes": "协作模式暂时停用：云端同步与入口均已关闭，当前画布继续以本地方式安全保存。",
-  "pub_date": "2026-08-26T10:06:38Z",
+  "version": "0.1.30",
+  "notes": "Midjourney 高级参数改为拉条并保留精确数值输入；画布其余行为与当前预览保持一致。",
+  "pub_date": "2026-09-24T03:01:44Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWXJ4SkE1UmQ0cGtDZnNIQzZxZVJaLzJKd0pDdm9tc3JRU25BK20yQjlLWDE1WkdHVlpsa1Rrd3k3UklxdC9NQkhaUE1WQ2k4dytoNDNlY1RoMHNwWXVNK21ucmlUdEFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3NzM4NDg1CWZpbGU6UlVTRE8uVFZfMC4xLjI5X3g2NC1zZXR1cC5leGUKQU9LQ1BQWTFYMWwyNTZkRHU0Skd4YjlnaWpKTEdvU0JMRHJhUG9LYW4wQllJbHNZRjVRcDVXdTdiTlRQakhBWjhxWGxSd3ZObzVPeXgySkkwWkZ0RHc9PQo=",
-      "url": "https://github.com/weibinyan854-ctrl/AIGC-Canvas-Releases/releases/download/v0.1.29/RUSDO.TV_0.1.29_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWXJ4SkE1UmQ0cG9EQ0RFSHkwUHlNQzdPdDdRRit2WVBqTXlyMUJYUWtWSEFSRVkvQmRUbFgzZWh4djRER2JIbkU1aVhPdjV2Y1NqYjlYYVpQeUhmUVBjeWZhRSsvMVFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMjE4Mzk4CWZpbGU6UlVTRE8uVFZfMC4xLjMwX3g2NC1zZXR1cC5leGUKVVBFODB1YnRXMmtCS0NYUm14OGpiTjVwRjZtNjRRYVE1Y2ZkVTBCZkNXL2FPTTBhMFJpVEVSNTAvWG0xd3BteHM1SHFQWThPRDg0cWQ4SGFGY1FOQmc9PQo=",
+      "url": "https://github.com/weibinyan854-ctrl/AIGC-Canvas-Releases/releases/download/v0.1.30/RUSDO.TV_0.1.30_x64-setup.exe"
     }
   }
 }
